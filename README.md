@@ -12,15 +12,39 @@ Below, you'll find details about my skills, education, and current employment.
 
 ## 🛠 Skills
 
-- **Databases**: PostgreSQL, MariaDB
-- **Containerization & Orchestration**: Kubernetes (k8s), Docker, Portainer, Harbor
-- **Operating Systems**: Linux
-- **Programming Languages**: Python, Go
-- **Cloud Services**: AWS (VPC, CloudFormation, EC2, EKS, LoadBalancer, IAM, S3)
-- **Data Platforms**: Dataiku
-- **Monitoring & Observability**: Prometheus, Grafana
+
+- **Databases**: 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+  
+- **Containerization & Orchestration**:
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
+  ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white)
+  
+- **Operating Systems**:
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  
+- **Programming Languages**:
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  
+- **Cloud Services**:
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  - VPC, CloudFormation, EC2, EKS, LoadBalancer, IAM, S3
+  
+- **Data Platforms**:
+  ![Dataiku](https://img.shields.io/badge/Dataiku-003545?style=flat-square&logo=dataiku&logoColor=white)
+  
+- **Monitoring & Observability**:
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+  
 - **Artificial Intelligence**:
-  - Computer Vision: Image Classification, Image Segmentation
+  ![CV](https://img.shields.io/badge/Computer%20Vision-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+  - Image Classification, Image Segmentation
+
 
 ## 🎓 Education
 
