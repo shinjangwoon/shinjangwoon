@@ -6,9 +6,6 @@
 Welcome to my GitHub profile! I'm passionate about technology and always eager to learn more.
 Below, you'll find details about my skills, education, and current employment.
 
-## 💼 Current Employment
-
-- **쿤텍 (2023.01 ~ )**
 
 ## 🛠 Skills
 
